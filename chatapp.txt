@@ -1,0 +1,5 @@
+1.Have a Lock up Screen.
+2.Starts with a welcome Screen.
+3.Have Calendar,email and Phone gallery.
+4.Whatsapp available.
+5.youtube available.
