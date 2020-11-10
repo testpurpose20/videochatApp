@@ -1,10 +1,11 @@
-1.Have a Lock up Screen.
-2.Starts with a welcome Screen.
-3.Have Calendar,email and Phone gallery.
-4.Whatsapp available.
-5.Youtube available.
-6.Add gmail and games.
-7.Add whatsapp call.
-8.Setup video call.
-9.Add auto battery saver
-10.Auto Light correction on.
+Have a Lock up Screen.
+Starts with a welcome Screen.
+Have Calendar,email and Phone gallery.
+Whatsapp available.
+Youtube available.
+Add gmail and games.
+Add whatsapp call.
+Setup video call.
+Add auto battery saver
+Auto Light correction on.
+Screen lock in 3 minutes when not in use
