@@ -2,4 +2,6 @@
 2.Starts with a welcome Screen.
 3.Have Calendar,email and Phone gallery.
 4.Whatsapp available.
-5.youtube available.
+5.Youtube available.
+6.Add gmail and games.
+7.Add whatsapp call.
