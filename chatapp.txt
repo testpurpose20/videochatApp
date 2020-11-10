@@ -5,3 +5,6 @@
 5.Youtube available.
 6.Add gmail and games.
 7.Add whatsapp call.
+8.Setup video call.
+9.Add auto battery saver
+10.Auto Light correction on.
